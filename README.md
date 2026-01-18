@@ -10,4 +10,5 @@ https://opnneyl.com/h5/#/account/details?id=1&account=real
 ___ Su_do key dependant:
 # pendant key renewed
 _ enter your Su_do to offload.
+# key to link successful. uploading_,files to BIN
 # End of file_.
