@@ -14,3 +14,4 @@ _ enter your Su_do to offload.
 # Setting offload BIN_ time:_/_/_/.
 _ Open to :https://github.com/Frespo/Mwas-Repo/blame/main/README.md#L8
 # End of file_.
+__Bot_pull request <red> https://opnneyl.com/h5/#/account/details?id=1&account=real
